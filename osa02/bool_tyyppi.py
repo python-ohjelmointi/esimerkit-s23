@@ -1,3 +1,4 @@
+# pylint: disable=comparison-of-constants
 # tähän asti olemme tutustuneet `str` ja `int`-tyyppeihin
 nimi = 'Toma'
 ika = 7
