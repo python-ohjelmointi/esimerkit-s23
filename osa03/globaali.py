@@ -1,4 +1,4 @@
-# pylint: disable=unused-argument
+# pylint: disable=unused-argument,used-before-assignment
 
 def tervehdi(nimi):
     print(f'hello {etunimi}')
