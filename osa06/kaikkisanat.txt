@@ -1,0 +1,15 @@
+﻿# Tallenna kokonainen sanalista itsellesi osoitteesta
+# https://raw.githubusercontent.com/hugovk/everyfinnishword/master/kaikkisanat.txt
+veto
+whisky
+video
+videokamera
+virologi
+virus
+visa
+vodka
+wok
+voodoo
+workshop
+zombie
+zoologi

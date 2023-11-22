@@ -1,0 +1,15 @@
+# Tallenna kokonainen sanalista itsellesi osoitteesta
+# https://raw.githubusercontent.com/martinlindhe/wordlist_swedish/master/swe_wordlist
+veto
+whisky
+video
+videokamera
+virologi
+virus
+visa
+vodka
+wok
+voodoo
+workshop
+zombie
+zoologi
